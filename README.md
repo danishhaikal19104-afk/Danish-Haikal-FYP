@@ -15,12 +15,12 @@ In upstream palm oil operations, inefficient Fruit Collection Point (FCP) placem
 
 | 1. Authentication & Dashboard | 2. Boundary & Road Mapping |
 |:---:|:---:|
-| ![Login UI](screenshots/login.jpg) | ![Estate Setup](screenshots/mapping-setup.jpg) |
+| ![Login UI](login.png) | ![Estate Setup](setup.png) |
 | *Session-based auth with historical run logs.* | *Interactive satellite estate polygon & internal road digitization.* |
 
 | 3. Hybrid Optimization Engine | 4. Yield & Fleet Routing Report |
 |:---:|:---:|
-| ![Optimization Execution](screenshots/optimizing-popup.jpg) | ![Report Output](screenshots/optimization-report.jpg) |
+| ![Optimization Execution](optimize.png) | ![Report Output](report.png) |
 | *Executing K-Means clustering + GA-TSP with turn penalties.* | *Comprehensive breakdown: MPOB yield, vehicle capacity, and distances.* |
 
 ## Algorithmic Pipeline & Technical Core
